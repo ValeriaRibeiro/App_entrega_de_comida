@@ -23,7 +23,7 @@ export default function Main(){
         <PaperProvider theme={theme}>
             <ProductProvider>
                 <CartProvider>
-                    <App/>
+                    <App />
                 </CartProvider>
             </ProductProvider>
         </PaperProvider>
