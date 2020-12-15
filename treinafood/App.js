@@ -1,12 +1,11 @@
 import React from 'react';
-import ProductsView from './app/user_interface/pages/ProductsView/ProductsView';
-import ProductDetail from './app/user_interface/pages/ProductDetail/ProductDetail';
+import BottomNavigation from './app/user_interface/pages/BottomNavigation/BottomNavigation';
 
 
 const App = () => {
   return (
     <>
-      <ProductsView />
+      <BottomNavigation />
       
     </>
   );
